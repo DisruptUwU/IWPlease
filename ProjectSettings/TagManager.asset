@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Magic
+  - Ranged
+  - SkillManager
+  - Totem_Range
+  - SkillPanel
+  - Enemy
+  - Magic_Enemy
+  - Ranged_Enemy
+  - Pylon_Range
+  - Fireball_Residue
+  - Bullet
+  - Rock
+  - Pylon_Body
+  - Fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Totem
+  - Player
+  - Enemy
+  - Pylon
+  - Pylon_Range
+  - Fireball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
